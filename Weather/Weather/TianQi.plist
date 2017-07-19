@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>湖北</key>
+	<dict>
+		<key>武汉</key>
+		<string>248</string>
+		<key>孝感</key>
+		<string>262</string>
+		<key>荆州</key>
+		<string>250</string>
+		<key>黄冈</key>
+		<string>249</string>
+		<key>咸宁</key>
+		<string>264</string>
+		<key>广水</key>
+		<string>814</string>
+		<key>钟祥</key>
+		<string>2160</string>
+		<key>宜城</key>
+		<string>1964</string>
+		<key>潜江</key>
+		<string>259</string>
+		<key>仙桃</key>
+		<string>258</string>
+	</dict>
+	<key>江苏</key>
+	<dict>
+		<key>南京</key>
+		<string>399</string>
+		<key>苏州</key>
+		<string>401</string>
+		<key>扬州</key>
+		<string>403</string>
+		<key>无锡</key>
+		<string>410</string>
+		<key>常州</key>
+		<string>408</string>
+		<key>江阴</key>
+		<string>1067</string>
+		<key>宜兴</key>
+		<string>2063</string>
+		<key>南通</key>
+		<string>402</string>
+		<key>连云港</key>
+		<string>407</string>
+		<key>淮安</key>
+		<string>406</string>
+	</dict>
+</dict>
+</plist>
